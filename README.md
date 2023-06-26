@@ -8,7 +8,7 @@ Ich habe das Projekt unter Verwendung dynamischer Ressourcen (strings.xml/colors
 sowie die Anwendung einer agilen Methodik bei der Implementierung des Projekts
 
 🇺🇸 English
-In this prohect, I created an application that integrates **ViewPager2** with TabLayout to display a fragment, based on the clicked/swiped tab.
+In this project, I created an application that integrates **ViewPager2** with TabLayout to display a fragment, based on the clicked/swiped tab.
 As I was curious with how Whatsapp's main screen is implemented, I decided to research and implement a similar mechanism in a sample app.
 Implemention wan done using Fragments while researching its lifecycle and its differences from activities.
 I used the latest FragmentStateAdapter.
